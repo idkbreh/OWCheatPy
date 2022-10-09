@@ -10,7 +10,7 @@ set your enemy color to purple and it will detect an enemy by purple highlight
 
 ### feature
 
-* Instant lock enemy `undected `
+* Instant lock enemy `undetected `
 
 ### To do
 
