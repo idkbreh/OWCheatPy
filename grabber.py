@@ -7,7 +7,7 @@ import time
 import win32api, win32con
 import clr
 # change this to wherever your built DLL is
-clr.AddReference(r'C:\Users\top\Desktop\a\aim_rewrite_[unknowncheats.me]__[unknowncheats.me]_\ClassLibrary1.dll')
+clr.AddReference(r'C:ClassLibrary1.dll')
 from ClassLibrary1 import Class1
 ud_mouse = Class1()
 
